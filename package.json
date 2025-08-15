@@ -8,7 +8,7 @@
     "url": "git+https://github.com/alexlu07/vscode-editor-env.git"
   },
   "engines": {
-    "vscode": "^1.100.0"
+    "vscode": "^1.78.0"
   },
   "categories": [
     "Other"
@@ -27,7 +27,7 @@
     "test": "vscode-test"
   },
   "devDependencies": {
-    "@types/vscode": "^1.100.0",
+    "@types/vscode": "^1.78.0",
     "@types/mocha": "^10.0.10",
     "@types/node": "20.x",
     "@typescript-eslint/eslint-plugin": "^8.31.1",
