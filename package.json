@@ -2,7 +2,7 @@
   "name": "vscode-pathfinder",
   "displayName": "VSCode Pathfinder",
   "description": "Export relevant vscode paths to /tmp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "alexlu07",
   "repository": {
     "type": "git",
