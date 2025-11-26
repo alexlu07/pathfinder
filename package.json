@@ -1,11 +1,11 @@
 {
-  "name": "vscode-editor-env",
-  "displayName": "vscode-editor-env",
-  "description": "Automatically exports the active editor path to /tmp/update_editor_env.sh",
-  "version": "0.0.1",
+  "name": "pathfinder",
+  "displayName": "Pathfinder",
+  "description": "Automatically exports relevant vscode paths to /tmp",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexlu07/vscode-editor-env.git"
+    "url": "git+https://github.com/alexlu07/pathfinder.git"
   },
   "engines": {
     "vscode": "^1.78.0"
